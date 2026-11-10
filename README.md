@@ -14,11 +14,4 @@
 
 ## Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=agentic-inquisit&show_icons=true&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentic-inquisit&layout=compact&hide_border=true" height="165">
-</p>
-
 ![contribution heatmap](https://ghchart.rshah.org/agentic-inquisit)
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agentic-inquisit&hide_border=true)
